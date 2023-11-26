@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Dofus/Fred_last/StarLoco 09 03 2023 v8/StarLoco 09 03 2023 v7/03 - Emulateur StarLoco Fun/04 - Game/libs/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Dofus/Fred_last/StarLoco 09 03 2023 v8/StarLoco 09 03 2023 v7/03 - Emulateur StarLoco Fun/04 - Game/libs/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Dofus/Fred_last/StarLoco 09 03 2023 v8/StarLoco 09 03 2023 v7/03 - Emulateur StarLoco Fun/04 - Game/libs/commons-logging-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Dofus/Fred_last/StarLoco 09 03 2023 v8/StarLoco 09 03 2023 v7/03 - Emulateur StarLoco Fun/04 - Game/libs/config-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Dofus/Fred_last/StarLoco 09 03 2023 v8/StarLoco 09 03 2023 v7/03 - Emulateur StarLoco Fun/04 - Game/libs/fastutil-7.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Dofus/Fred_last/StarLoco 09 03 2023 v8/StarLoco 09 03 2023 v7/03 - Emulateur StarLoco Fun/04 - Game/libs/google-translate-095.jar"/>
+	<classpathentry kind="lib" path="D:/Dofus/Fred_last/StarLoco 09 03 2023 v8/StarLoco 09 03 2023 v7/03 - Emulateur StarLoco Fun/04 - Game/libs/HikariCP-1.3.8.jar"/>
+	<classpathentry kind="lib" path="D:/Dofus/Fred_last/StarLoco 09 03 2023 v8/StarLoco 09 03 2023 v7/03 - Emulateur StarLoco Fun/04 - Game/libs/jansi-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Dofus/Fred_last/StarLoco 09 03 2023 v8/StarLoco 09 03 2023 v7/03 - Emulateur StarLoco Fun/04 - Game/libs/javassist.jar"/>
+	<classpathentry kind="lib" path="D:/Dofus/Fred_last/StarLoco 09 03 2023 v8/StarLoco 09 03 2023 v7/03 - Emulateur StarLoco Fun/04 - Game/libs/jep.jar"/>
+	<classpathentry kind="lib" path="D:/Dofus/Fred_last/StarLoco 09 03 2023 v8/StarLoco 09 03 2023 v7/03 - Emulateur StarLoco Fun/04 - Game/libs/joda-time-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Dofus/Fred_last/StarLoco 09 03 2023 v8/StarLoco 09 03 2023 v7/03 - Emulateur StarLoco Fun/04 - Game/libs/logback-classic-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Dofus/Fred_last/StarLoco 09 03 2023 v8/StarLoco 09 03 2023 v7/03 - Emulateur StarLoco Fun/04 - Game/libs/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Dofus/Fred_last/StarLoco 09 03 2023 v8/StarLoco 09 03 2023 v7/03 - Emulateur StarLoco Fun/04 - Game/libs/mina-core-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Dofus/Fred_last/StarLoco 09 03 2023 v8/StarLoco 09 03 2023 v7/03 - Emulateur StarLoco Fun/04 - Game/libs/mysql.jar"/>
+	<classpathentry kind="lib" path="D:/Dofus/Fred_last/StarLoco 09 03 2023 v8/StarLoco 09 03 2023 v7/03 - Emulateur StarLoco Fun/04 - Game/libs/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
